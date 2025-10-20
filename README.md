@@ -10,7 +10,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  A passionate Fullstack Developer from Ethiopia 🇪🇹
+  A passionate Fullstack Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -163,40 +163,6 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
-
-## <b>📈 Coding Activity</b>
-
-<br/>
-
-<div align="center">
-
-<!-- Placeholder for future coding stats -->
-<div style="background: rgba(122, 122, 219, 0.1); padding: 30px; border-radius: 10px; margin: 20px 0;">
-  <h3>💻 Daily Coding Journey</h3>
-  <p>Building amazing projects and learning new technologies every day!</p>
-  <div style="display: flex; justify-content: center; gap: 15px; margin-top: 15px; flex-wrap: wrap;">
-    <span style="background: rgba(122, 122, 219, 0.2); padding: 8px 15px; border-radius: 20px;">🚀 MERN Stack</span>
-    <span style="background: rgba(122, 122, 219, 0.2); padding: 8px 15px; border-radius: 20px;">🎯 JavaScript</span>
-    <span style="background: rgba(122, 122, 219, 0.2); padding: 8px 15px; border-radius: 20px;">⚡ React</span>
-    <span style="background: rgba(122, 122, 219, 0.2); padding: 8px 15px; border-radius: 20px;">🔗 Node.js</span>
-  </div>
-</div>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
-
-<br/>
-
-<div align="center">
-  
-## 🎯 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
-  
 </div>
 
 <br/>
