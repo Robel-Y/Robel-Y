@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=7A7ADB&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+Robel+Y.;Fullstack+MERN+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=7A7ADB&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+Robel+Y.;Fullstack+MERN+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
 
 
@@ -165,6 +165,15 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
+
+## <b> Portfolio </b>
+</br>
+<div align="center">
+<!-- PORTFOLIO BUTTON - Prominent Placement -->
+<a href="https://myportfolio-eta-murex.vercel.app/" target="_blank" style="text-decoration: none; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://img.shields.io/badge/Portfolio-7A7ADB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+</div>
 <br/>
 
 <div align="center">
@@ -174,6 +183,26 @@
 ---
 
 <div align="center">
+
+<!-- GitHub Readme Stats -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
+
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robel-Y&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Robel's GitHub Stats" style="border-radius: 10px;"/>
+
+<!-- Streak Stats -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Robel-Y&theme=radical&hide_border=true" alt="Robel's Streak Stats" style="border-radius: 10px;"/>
+
+</div>
+
+<!-- Top Languages -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robel-Y&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" style="border-radius: 10px;"/>
+</div>
+
+</div>
+
+<br/>
   
 ### ⚡ **Thanks for visiting my profile!** ⚡
   
